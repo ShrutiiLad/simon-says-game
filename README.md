@@ -29,8 +29,7 @@ A web-based Simon Says memory game built using HTML, CSS, and JavaScript. The ga
 * script.js → Game logic
 
 ## 🌐 Live Demo
-
-(Add link after deploying)
+https://shrutiilad.github.io/simon-says-game/
 
 ## 🙌 Author
 
