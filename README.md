@@ -1,6 +1,6 @@
 # 🎮 Simon Says Game
 
-A web-based Simon Says memory game built using HTML, CSS, and JavaScript. The game generates a sequence of colors that the player must repeat in the correct order, with the sequence increasing in difficulty at each level. Designed with an interactive UI, smooth animations, and responsive gameplay
+A web-based Simon Says memory game built using HTML, CSS, and JavaScript. The game generates a sequence of colors that the player must repeat in the correct order, with the sequence increasing in difficulty at each level. Designed with an interactive UI, smooth animations, and responsive gameplay.To enhance user experience, a hint feature is implemented that assists players by replaying or partially revealing the sequence without completely removing the challenge.
 
 ## 🚀 Features
 
