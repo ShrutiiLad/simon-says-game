@@ -1,0 +1,93 @@
+body{
+    text-align: center;
+     background: #f4f6fb;
+}
+
+.btn
+{
+    margin:2rem;
+    border: 6px solid black;
+    width:200px;
+    height:200px;
+    border-radius: 20%;
+}
+.btn-container
+{
+    display:flex;
+    justify-content: center;
+}
+
+.red
+{
+ 
+    background-color: #d95980;
+}
+
+.yellow
+{
+    background-color: #f99b45;
+}
+
+.green
+{
+    background-color:  #63aac0;
+}
+
+.purple
+{
+   background-color:#819ff9;
+}
+
+.flash
+{
+    background-color: white;
+}
+
+.userFlash
+{
+    background-color: green;
+}
+.hint {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+
+    font-family: "Poppins", sans-serif;
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    background-color: red;
+
+    color: #ffffff;
+    height: 42px;
+    width: 90px;
+
+    border: 3px solid black;
+    border-radius: 12px;
+
+    cursor: pointer;
+    box-shadow: 0 5px 0 #a00000;
+}
+
+
+.hint:hover {
+    background: linear-gradient(135deg, #ff6b6b, #ff2b2b);
+}
+
+#hint-text {
+    margin-top: 10px;
+    padding: 8px 14px;
+
+    font-size: 0.95rem;
+    font-weight: 600;
+
+    background: #fff3cd;           /* soft yellow = hint */
+    color: #856404;
+
+    border-left: 4px solid #ffc107;
+    border-radius: 6px;
+
+    min-width: 220px;
+}
